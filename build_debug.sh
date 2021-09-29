@@ -1,0 +1,1 @@
+clang -std=c11 -Wall -Wextra -g -o run -I./include ./src/*.c -lsdl2
